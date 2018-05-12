@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31484'
     url: http://www.gutenberg.org/2009/agents/31484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25651#With-Spurs-of-GoldHeroes-of-Chivalry-and-their-Deeds
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
 identifiers:
