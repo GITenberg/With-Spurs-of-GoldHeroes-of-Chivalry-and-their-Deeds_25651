@@ -1,0 +1,33 @@
+_repo: With-Spurs-of-GoldHeroes-of-Chivalry-and-their-Deeds_25651
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25651-h/images/cover01.jpg
+creator:
+  authors:
+  - agent_name: Kirk, Dolly Williams
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '31485'
+    url: http://www.gutenberg.org/2009/agents/31485
+  - agent_name: Greene, Frances Nimmo
+    birthdate: 1850
+    deathdate: 1921
+    gutenberg_agent_id: '31484'
+    url: http://www.gutenberg.org/2009/agents/31484
+description: ''
+gutenberg_issued: '2008-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'With Spurs of Gold: Heroes of Chivalry and their Deeds'
+url: http://www.gutenberg.org/ebooks/25651
